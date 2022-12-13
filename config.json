@@ -1,0 +1,64 @@
+{
+  "bridge": {
+    "name": "Homebridge",
+    "username": "CC:22:3D:E3:CE:30",
+    "manufacturer": "homebridge.io",
+    "model": "homebridge",
+    "port": 51826,
+    "pin": "031-45-154"
+  },
+  
+  "description": "Homebridge Server",
+  "ports": {
+    "start": 52100,
+    "end": 52150,
+    "comment": "Homebridge Server"
+  },
+  "accessories": [
+  ],
+ "platforms": [
+   {
+     "platform": "Blinds Command",
+     "blinds": [
+        {
+         "name": "Window 1",
+         "manufacturer": "Comfortex",
+         "model": "Simplicity",
+         "serial": "1234",
+         "up": "/var/lib/homebridge/scripts/window-1-up.sh",
+         "down": "/var/lib/homebridge/scripts/window-1-down.sh",
+         "stop": "/var/lib/homebridge/scripts/window-1-stop.sh",
+         "transitionInterval": 10
+        },
+        {
+         "name": "Window 2",
+         "manufacturer": "Comfortex",
+         "model": "Simplicity",
+         "serial": "1234",
+         "up": "/var/lib/homebridge/scripts/window-2-up.sh",
+         "down": "/var/lib/homebridge/scripts/window-2-down.sh",
+         "stop": "/var/lib/homebridge/scripts/window-2-stop.sh",
+         "transitionInterval": 10
+        },
+        {
+         "name": "Window 3",
+         "manufacturer": "Comfortex",
+         "model": "Simplicity",
+         "serial": "1234",
+         "up": "/var/lib/homebridge/scripts/window-3-up.sh",
+         "down": "/var/lib/homebridge/scripts/window-3-down.sh",
+         "stop": "/var/lib/homebridge/scripts/window-3-stop.sh",
+         "transitionInterval": 10
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
