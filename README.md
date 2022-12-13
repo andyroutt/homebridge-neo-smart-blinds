@@ -4,7 +4,7 @@ Instructions for integrating motorized window blinds controlled by a Neo Smart C
 
 ### Prerequisites
 
-- [Neo Smart Blinds App](https://apps.apple.com/us/app/neo-smart-blinds/id1046912127)
+- [Neo Smart Blinds App](https://apps.apple.com/app/id1046912127)
 - [Neo Smart Controller](https://neosmartblinds.com/smartcontroller/)
 - [Motorized Window Blinds that support the Neo Smart Blind Controller](https://comfortex.com/motorized-shades/)
 - Working Homebridge installation
