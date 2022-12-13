@@ -13,12 +13,10 @@ Instructions for integrating motorized window blinds controlled by a Neo Smart C
 ### Setup
 
 1. Install Homebridge &rarr; [Homebridge Setup Instructions](https://github.com/homebridge/homebridge/wiki#homebridge-setup-instructions)
-<br>
 
 2. Install Homebridge Blinds Command plugin &rarr; [Plugin Installation](https://github.com/hjdhjd/homebridge-blinds-cmd#installation)
-<br>
 
-3. Identify the _ID_, _ID1_, _ID2_, _Channel_, and _Controller IP Address_ using the mobile app.
+3. Locate the _ID_, _ID1_, _ID2_, _Channel_, and _Controller IP Address_ using the mobile app.
 
 	<ins>__ID and Controller IP Address__</ins>
 
@@ -50,12 +48,10 @@ Instructions for integrating motorized window blinds controlled by a Neo Smart C
 4. Modify UP, DOWN, and STOP scripts
 
 	- See example scripts
-	<br>
 
 5. Update Homebridge config.json
 
 	- See example config.json
-	<br>
 
 6. Restart Homebridge
 
