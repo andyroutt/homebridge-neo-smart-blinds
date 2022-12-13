@@ -63,7 +63,7 @@ The included __```smart-blinds-test.py```__ script can be used to troubleshoot a
 
 Here is where I purchased my motorized window blinds, solar chargers, and remotes.
 
-- [Comfortex/Simplicity Motirized Blinds](https://northsolarscreen.com/)
+- [Comfortex/Simplicity Motorized Blinds](https://northsolarscreen.com/)
 - [Rollerhouse 8.4V Solar Charger](https://www.amazon.com/gp/product/B07BR1S6B8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Rollerhouse 5 Channel Remote](https://www.amazon.com/gp/product/B077P7YWQH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
