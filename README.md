@@ -63,8 +63,8 @@ The included __```smart-blinds-test.py```__ script can be used to troubleshoot a
 
 Neo Controller API
 
-- [Open HTTP Protocol v1.3 ](../api/Open Local HTTP Protocol V1.3.pdf)
-- [Open TCP Protocol v1.5 ](../api/Open TCP Protocol V1.5.pdf)
+- [Open HTTP Protocol v1.3 ](../api/Open%20Local%20HTTP%20Protocol%20V1.3.pdf)
+- [Open TCP Protocol v1.5 ](../api/Open%20TCP%20Protocol%20V1.5.pdf)
 
 ### Additional Information
 
