@@ -59,6 +59,13 @@ Instructions for integrating motorized window blinds controlled by a Neo Smart C
 
 The included __```smart-blinds-test.py```__ script can be used to troubleshoot and test various blind settings. Please update with the approprite _ID_, _ID1_, _ID2_, _Channel_, and _Controller IP Address_ according to your configuration.
 
+### References
+
+Neo Controller API
+
+- [Open HTTP Protocol v1.3 ](../api/Open Local HTTP Protocol V1.3.pdf)
+- [Open TCP Protocol v1.5 ](../api/Open TCP Protocol V1.5.pdf)
+
 ### Additional Information
 
 Here is where I purchased my motorized window blinds, solar chargers, and remotes.
